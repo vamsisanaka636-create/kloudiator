@@ -2,8 +2,6 @@
                    connectionTimeout="20000"
                    redirectPort="8443" address="0.0.0.0" />
 /path/to/tomcat/conf/server.xml
-
- 
 <Context path="/jenkins" docBase="/path/to/jenkins.war" reloadable="false" />
 
  
